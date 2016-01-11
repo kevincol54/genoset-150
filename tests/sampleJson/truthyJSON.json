@@ -1,0 +1,42 @@
+{
+  "rs4244285": {
+    "chromosome": 10,
+    "genotype": "GG"
+  },
+  "rs17878459": {
+    "chromosome": 10,
+    "genotype": "GG"
+  },
+  "rs4986893": {
+    "chromosome": 10,
+    "genotype": "GG"
+  },
+  "rs28399504": {
+    "chromosome": 10,
+    "genotype": "AA"
+  },
+  "rs41291556": {
+    "chromosome": 10,
+    "genotype": "TT"
+  },
+  "rs17884712": {
+    "chromosome": 10,
+    "genotype": "GG"
+  },
+  "rs6413438": {
+    "chromosome": 10,
+    "genotype": "CC"
+  },
+  "rs17879685": {
+    "chromosome": 10,
+    "genotype": "CC"
+  },
+  "rs12248560": {
+    "chromosome": 10,
+    "genotype": "CC"
+  },
+  "rs5787121": {
+    "chromosome": 10,
+    "genotype": "GG"
+  }
+}
