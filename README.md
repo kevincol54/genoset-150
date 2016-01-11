@@ -1,6 +1,6 @@
 # genoset-150
 
-This script determines if you have an lower risk of developing Parkinson's Disease, as per [gs150](http://www.snpedia.com/index.php/Gs150)
+Most likely CYP2C19 normal, i.e. CYP2C19*1, and therefore of the "rapid metabolizer" phenotype, as per [gs150](http://www.snpedia.com/index.php/Gs150)
 
 ## Compatibility
 
