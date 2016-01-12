@@ -1,6 +1,6 @@
 {
   "name": "genoset-150",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Most likely CYP2C19 normal, i.e. CYP2C19*1, and therefore of the 'rapid metabolizer' phenotype.",
   "main": "index.js",
   "directories": {
